@@ -1,72 +1,75 @@
-<h3 align="left">Hey there! I'm a DevSecOps engineer specializing in AWS cloud architecture.<br>You'll find me automating infrastructure with IaC, wrangling containers, building serverless functions, and refining CI/CD pipelines for smooth, reliable deployments with top-notch monitoring.</h3>
+☁️ DAVIDE SILURI: Cloud Technology Lead & FinOps Architect
+The intersection of Enterprise Governance, Cloud Optimization, and AI/ML Infrastructure.
+🚀 Specialist Profile: Cloud, AI/MLOps & Financial Governance
+I am a strategic Cloud Technology Lead with nearly 20 years of experience evolving enterprise infrastructure into highly optimized, governed, and compliant multi-cloud platforms.
+My unique value proposition lies in bridging the gap between deep technical expertise and critical business metrics: I don't just build the cloud; I ensure it's secure, reliable, and profitable.
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
-</div>
+Expertise Area
+Focus
+Key Deliverable
+FinOps / Cloud Economics
+Cost Management & Unit Economics
+💸 Measurable cost reduction (up to 30% OPEX savings).
+DevSecOps / Zero Trust
+Platform Security & Compliance
+🔒 100% compliance with SOX/GDPR/Financial regulations.
+Platform Engineering
+IDP (Internal Developer Platform) Strategy
+🏭 Accelerated developer velocity and reduced MTTR.
+Data & MLOps
+AI/ML Infrastructure & Data Governance
+🧠 Containerized and scaled high-performance forecasting models.
 
-###
+🛠️ CORE EXPERTISE: THE MODERN STACK
+I. Cloud Strategy & Financial Governance (FinOps)
+As a FinOps Architect with a Master's in Financial Management, I turn cloud infrastructure into a predictable, strategic investment.
+Multi-Cloud Mastery: Strategic design and governance across AWS and Microsoft Azure.
+FinOps Implementation: Automated cost-allocation, rightsizing, anomaly detection, and implementing resource utilization strategies (e.g., Reserved Instances, Savings Plans).
+Modernization: Architecting transitions from monolithic systems to resilient Serverless and Event-Driven Architectures.
+II. Enterprise DevSecOps & Platform Engineering
+I build the automated, secure foundation that Fortune 500 companies rely on.
+Security First: Enforcing Zero Trust architectures and leading DevSecOps practices with integrated SAST/DAST scanning and Supply Chain Security controls.
+Infrastructure as Code (IaC): Deep specialization in Terraform for multi-cloud immutable infrastructure and Policy as Code (OPA/Sentinel) to maintain governance at scale.
+GitOps & CI/CD: Designing robust, high-velocity pipelines (GitHub Actions, ArgoCD) to achieve high DORA metrics (Deployment Frequency, Lead Time).
+Container Orchestration: Governance and scaling of Kubernetes (EKS, AKS, OpenShift) for enterprise workloads.
+III. AI/MLOps Infrastructure
+My background includes optimizing infrastructure for cutting-edge data science and financial modeling teams.
+MLOps Pipeline Design: Establishing containerized environments to support high-performance model training and deployment (e.g., Google TensorFlow, Python environments).
+Data Governance: Ensuring data pipelines comply with strict regulatory frameworks, crucial for financial forecasting and sensitive data handling.
+💼 SELECT ENTERPRISE IMPACT
+Project Name
+Industry
+Impact & Metrics
+HCM Platform Governance (ADP)
+Human Capital Management
+Led multi-cloud governance for platforms serving millions. Reduced compliance audit time by 40% by standardizing deployment patterns (IaC).
+Finance Transformation (Adevinta)
+Digital Marketplaces & FinTech
+Technical Lead for global finance systems integration (SAP S/4HANA). Designed the Zero Trust network for BPO partner access to highly sensitive environments.
+Edge Compute Automation (viaPhoton)
+Manufacturing & Telecom
+Engineered reusable Terraform modules to automate provisioning of new factory edge locations, reducing IT deployment time from days to hours.
+Pharma AI/ML Scaling (Boehringer)
+Pharmaceuticals & Life Sciences
+Deployed OpenShift/Kubernetes clusters specifically for financial forecasting models, enabling data scientists to run complex, compute-intensive simulations.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsiluri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dsiluri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+🤝 WHY PARTNER WITH ME?
+I deliver strategic leadership and tangible financial results, not just features.
+My experience ensures that your cloud transition, modernization, or governance project is:
+Financially Optimized: Every deployment considers the bottom line (FinOps).
+Enterprise-Ready: Built with security, regulatory compliance, and resilience (SRE) as non-negotiables.
+Future-Proof: Designed using modern platform engineering principles to support rapid growth and innovation.
+🌐 Let's Connect
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/dsiluri/dsiluri/output/snake.svg" alt="Snake animation" />
 
-###
+Availability:
+Immediately available for strategic architecture, interim leadership, and governance projects.
+Contact:
+d.siluri@pm.me
+Profile:
+[Arc.dev Profile URL] / [Upwork Profile URL]
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/davide-siluri-5a732027/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/m1ss0ur1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:siluri10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+Davide Siluri is a strategic Cloud Technology Leader specialized in FinOps, DevSecOps, and Multi-Cloud Governance (AWS/Azure).
