@@ -74,6 +74,6 @@ My experience ensures that your cloud transition, modernization, or governance p
 | :---- | :---- |
 | **Availability:** | Immediately available for strategic architecture, interim leadership, and governance projects. |
 | **Contact:** | d.siluri@pm.me |
-| **Profile:** | \[Arc.dev Profile URL\] / \[Upwork Profile URL\] |
+| **Profile:** | https://www.upwork.com/freelancers/~019c1ef2fa1e0beb38 |
 
 *Davide Siluri is a strategic Cloud Technology Leader specialized in FinOps, DevSecOps, and Multi-Cloud Governance (AWS/Azure).*
