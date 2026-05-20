@@ -1,4 +1,4 @@
-# **☁️ DAVIDE SILURI: Cloud Technology Lead & FinOps Architect**
+# **☁️ DAVIDE SILURI: Platform Engineering Lead**
 
 **The intersection of Enterprise Governance, Cloud Optimization, and AI/ML Infrastructure.**
 
